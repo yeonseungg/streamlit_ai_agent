@@ -92,3 +92,5 @@ if uploaded_file:
             st.error(f"파일 처리 중 오류가 발생했습니다: {e}")
 else:
     st.info("엑셀(.xlsx) 또는 CSV 파일을 업로드하면 데이터를 필터링할 수 있습니다.")
+
+
